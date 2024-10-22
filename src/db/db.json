@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "5881c4bb-5351-43b5-a18c-a5782a7d0266",
+    "name": "Floyd Buckridge",
+    "phone": "1-341-314-5032 x94660",
+    "email": "Winifred_Schumm@yahoo.com",
+    "job": "Dynamic Branding Administrator"
+  },
+  {
+    "id": "a0a71504-3835-4bd2-9fff-5518461ff159",
+    "name": "Anthony Nader",
+    "phone": "(734) 888-7155 x3387",
+    "email": "Bailey36@hotmail.com",
+    "job": "Chief Branding Consultant"
+  },
+  {
+    "id": "d2661d30-fcda-4879-8083-f76f6b55b340",
+    "name": "Neil Koelpin",
+    "phone": "941-916-7232 x00010",
+    "email": "Quinton_Larson@yahoo.com",
+    "job": "Future Factors Planner"
+  },
+  {
+    "id": "4ee15fe5-d0eb-4c89-95d4-36dec37a414c",
+    "name": "Carole Strosin",
+    "phone": "1-301-569-2656 x279",
+    "email": "Levi.Heaney@gmail.com",
+    "job": "Principal Directives Manager"
+  },
+  {
+    "id": "417ec844-80de-4fc4-a605-b02017fc1f78",
+    "name": "Sylvester Kilback",
+    "phone": "1-860-572-2935",
+    "email": "Jamir24@yahoo.com",
+    "job": "Investor Communications Facilitator"
+  }
+]
