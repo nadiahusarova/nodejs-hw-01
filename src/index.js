@@ -1,3 +1,3 @@
 // const message = "Hello virus";
 
-// console.log(message);
+// console.log(message);  перевірка роботи ESlint

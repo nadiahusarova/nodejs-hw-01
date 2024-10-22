@@ -19,3 +19,4 @@ const generateContacts = async (number) => {
 };
 
 generateContacts(5);
+//npm run generate - перевірка
