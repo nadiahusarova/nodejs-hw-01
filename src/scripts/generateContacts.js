@@ -18,5 +18,5 @@ const generateContacts = async (number) => {
   }
 };
 
-generateContacts(7);
+generateContacts(3);
 //npm run generate - перевірка
